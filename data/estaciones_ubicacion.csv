@@ -1,0 +1,20 @@
+OBJECTID,estacion,cod_estac,dir_estac,entidad_colab,altura,alt_suelo,proposito,administrador,sect_loc,activo,url,longitud,latitud
+1,Centro de Alto Rendimiento,CDAR,Calle 63 No. 59A - 06,Centro de Alto Rendimiento,2577.0000,0.0000000000,01,01,12,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_Centro_Alto_Rendimiento.pdf,-74.08396666599998,4.658479163000038
+2,Guaymaral,GYR,Autopista Norte No. 205 - 59,Escuela Colombiana de Ingeniería,2580.0000,0.0000000000,02,01,11,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_Guaymaral.pdf,-74.04378333399995,4.783746163000046
+3,Kennedy,KEN,Kr 80 No. 40-55 Sur,Parque Cayetano Cañizares,2580.0000,3.0000000,01,01,08,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_kennedy.pdf,-74.16133333299996,4.62506240700003
+4,Las Ferias,LFR,Av. Calle 80 No. 69 Q - 50,Instalaciones Almacen Metro,2552.0000,0.0000000000,02,01,10,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_lasFerias.pdf,-74.08248333299997,4.69071258200006
+5,Puente Aranda,PTE,Calle 10 No. 65-28,Merk S.A.,2590.0000,10.000000,02,01,16,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_PteAranda.pdf,-74.11748333299994,4.631779092000045
+6,MinAmbiente,MAM,Calle 37 No. 8-40,Ministerio de Ambiente y Desarrollo Sostenible,2621.0000,15.000000,01,01,03,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_Sag_Corazon.pdf,-74.06686666699994,4.625562409000054
+7,San Cristobal,SCR,Kr 2 Este No 12 - 78 Sur,Kr 2 Este No 12 - 78 Sur,2688.0000,0.0000000000,01,01,04,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_SanCrist.pdf,-74.08379999899995,4.572662268000045
+8,Móvil Fontibón ,MOV2,Cra. 98 #16 B 50,Cra. 98 #16 B 50,,,,,,,,-74.14850000399997,4.668
+9,Móvil 7ma,MOV,Carrera 7 con calle 60,Carrera 7 con calle 60,,,,,,,,-74.06155555199996,4.645194443000037
+10,Suba,SUB,Kr 111No. 159A - 61,Fundacion Universitaria Juan N Corpas,2571.0000,6.0000000,01,01,11,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_Suba.pdf,-74.09348333399998,4.761362770000062
+11,Tunal,TUN,Kr 24 No. 49 - 86 Sur,Colegio INEM Santiago Perez,2589.0000,0.0000000000,01,01,06,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_tunal.pdf,-74.13096666599995,4.576295611000035
+12,Colina, COL,Avenida Boyacá No 142 A55,Avenida Boyacá No 142 A55,,,,,,,,-74.06947222299993,4.737194362000025
+13,Usaquen,USQ,Kr 7 B Bis No. 132 - 11,Universidad el Bosque,2570.0000,13.000000,01,01,01,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_usaquen.pdf,-74.03041666699994,4.710362635000024
+14,Ciudad Bolívar,CBV,Calle 70 Sur # 56 -11,Calle 70 Sur # 56 -11,,,,,,,,-74.16627777399998,4.577805556000044
+15,Usme, USM,Carrera 11 # 65 D 50 Sur,Carrera 11 # 65 D 50 Sur,,,,,,,,-74.11713889099997,4.532055559000071
+16,Jazmín,JAZ,Calle 1 G # 41 A 39,Calle 1 G # 41 A 39,,,,,,,,-74.11494444499994,4.608499996000035
+17,Fontibón,FTB,Carrera 104 # 20 C - 31,Carrera 104 # 20 C - 31,,,,,,,,-74.14381944399997,4.678241662000062
+18,Bolivia,BOL,Av. Calle 80 No. 121 - 98,PTAR Salitre,2574.0000,0.0000000000,01,01,10,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_bolivia.pdf,-74.12588333399998,4.735879369000031
+19,Carvajal - Sevillana,CSE,Autopista Sur No. 63-40,Bavaria,2563.0000,3.0000000,01,01,08,01,http://190.27.245.107/arcgis/manager/3370/css/esri/images/Documentos_Visor/Est_carvajal.pdf,-74.14858333299998,4.595628996000073
