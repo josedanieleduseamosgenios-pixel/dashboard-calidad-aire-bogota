@@ -38,7 +38,6 @@ respuestas concretas a preguntas que un tomador de decisiones necesita resolver:
 | IBOCA (reportes descargados directamente de la RMCAB) | Serie diaria de PM10/PM2.5 por estación, mismo formato que Mendeley tras conversión | feb 2024 – actualidad |
 | [Localización de estaciones — Datos Abiertos Bogotá](https://datosabiertos.bogota.gov.co/dataset/localizacion-de-las-estaciones-calidad-del-aire-en-bogota) (SDA) | Coordenadas y metadatos de 19 estaciones | Actual |
 | [Mortalidad atribuida a PM2.5 — Datos Abiertos Bogotá](https://datosabiertos.bogota.gov.co) (SDS) | Mortalidad por localidad, año y grupo de edad | 2019-2023 |
-| [Prevalencia de síntomas respiratorios en menores de 5 años — Datos Abiertos Bogotá](https://datosabiertos.bogota.gov.co) (SDS) | Síntomas respiratorios y ausentismo escolar por localidad | 2019-2025 |
 | [Tabla oficial de estaciones RMCAB](https://ambientebogota.gov.co/estaciones-rmcab) (SDA) | Localidad oficial de cada estación, usada para el cruce estación→localidad | — |
 
 **Fuentes descartadas y por qué:** las capas de PM10/PM2.5/Ozono promedio anual del
